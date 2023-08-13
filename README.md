@@ -21,7 +21,7 @@ goals and objectives;
 ## Some training projects performed
 
 1. [Processing Big Data](https://github.com/wwweather/data-scientist-jr/blob/main/pizzas.ipynb);
-2. [SQLite3 interactions](https://github.com/wwweather/data-scientist-jr/blob/main/feedoclock-analytics.ipynb);
+2. [SQLite3 Interactions](https://github.com/wwweather/data-scientist-jr/blob/main/feedoclock-analytics.ipynb);
 3. [A/B Testing and Correlation Analysis](https://github.com/wwweather/data-scientist-jr/blob/main/AB%26corrs.ipynb);
 4. [Natural Language Processing](https://github.com/wwweather/data-scientist-jr/blob/main/nlp-ml.ipynb);
 5. [Recommendation System](https://github.com/wwweather/data-scientist-jr/blob/main/movieRecSystem.ipynb).
